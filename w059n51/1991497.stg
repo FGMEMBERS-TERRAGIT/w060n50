@@ -1,3 +1,13 @@
 OBJECT_SHARED Models/Airport/ndb.ac -58.651944 51.188889 9.99 180
 OBJECT_SHARED Models/Airport/ils.xml -58.655 51.203333 11.86 348.87
 OBJECT_SHARED Models/Communications/vordme_1.xml -58.654722 51.199444 11.21 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/SmHangar.ac -58.66402 51.21954 0.00 124.518
+OBJECT_SHARED Models/Airport/FGRefuel02.xml -58.66322 51.21926 4.44 220.308
+OBJECT_SHARED Models/lib/cars2.ac -58.66298 51.21961 4.43 306.4
+OBJECT_SHARED Models/lib/cars10.ac -58.66293 51.21957 3.72 306.417
+OBJECT_SHARED Models/lib/cars4.ac -58.66318 51.21947 3.65 129
+OBJECT_SHARED Models/lib/cars10.ac -58.66289 51.21925 4.06 129.016
+# END dsf2stg
